@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: mate
-    image: jamtur01/skaffold-mate
+    image: sebinsua/skaffold-mate

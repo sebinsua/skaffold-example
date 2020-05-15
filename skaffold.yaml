@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta13
 kind: Config
 build:
   artifacts:
-  - image: jamtur01/skaffold-mate
+  - image: sebinsua/skaffold-mate
 deploy:
   kubectl:
     manifests:
